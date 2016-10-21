@@ -1,0 +1,99 @@
+body{
+    background-color: #F3F3F5;
+    }
+.container {
+    width: 500px;
+    margin: 0 auto;
+    padding-bottom: 333.63px;
+    letter-spacing: -1px;
+}
+.header {
+    color: #010101;
+    font-family: Arial,sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 46px;
+    margin-bottom: 25px;
+}
+.photo {
+    width: 201px;
+    height: 201px;
+    margin: 0 auto;
+    background-image: url("../img/img2.png");
+    background-size: cover;
+    border: 1px solid gray;
+}
+.student {
+    opacity: 0.8;
+    color: #1f1f1f;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+    margin-top: 20px;
+}
+.line1 {
+    width: 500px;
+    height: 1px;
+    opacity: 0.22;
+    background-color: #1f1f1f;
+    margin-top: 21px;
+    margin-bottom: 19px;
+}
+h2 {
+    font-family: Myriad Pro,sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+.list, .number, .link, .fb {
+    font-family: Myriad Pro, sans-serif;
+    font-size: 14px;
+}
+.wishes{
+    color: #1f1f1f;
+    margin-bottom: 23px;
+}
+.cont_fb{
+    color: #3a3a3a;
+    margin-bottom: 23px;
+}
+.vk {
+    color: #1f1f1f;
+    margin-top: 17px;
+}
+.number, .fb {
+    color: #3a3a3a;
+    font-weight: 400;
+}
+.number {
+    margin-left: 37px;
+}
+
+ul {
+    list-style-type: disc;
+    color: #3b3b3b;
+    font-weight: 400;
+    line-height: 19px;
+    margin-left: 31px;
+}
+.line2{
+    width: 500px;
+    height: 1px;
+    opacity: 0.2;
+    background-color: #656466;
+    margin-top: 18px;
+    margin-bottom: 19px;
+}
+.link {
+    color: rgb(0, 86, 211);
+    font-weight: 400;
+    text-decoration: underline;
+    font-style: italic;
+    margin-top: 23px;
+    margin-left: 37px;
+}
+.fb {
+    margin-left: 37px
+}
